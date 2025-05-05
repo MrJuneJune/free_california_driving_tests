@@ -6,7 +6,7 @@ Maybe I will add road images and signs? For now, this should cover all the basic
 - Created using california driving booklets.
 - Up to date with 2025.
 
-url: https://mrjunejune.github.io/free_california_driving_tests/index.html
+url: https://mrjunejune.com/free-california-driving-tests/
 
 ## Images
 
